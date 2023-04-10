@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **on any possibilities I'll find**
 
-- 📝 I regularly write articles on [on my own portfolio website](on my own portfolio website)
-
 - 💬 Ask me about **whatever u want**
 
 - 📫 How to reach me **https://www.linkedin.com/in/peter-harcar**
