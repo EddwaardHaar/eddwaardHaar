@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **web development and game development**
 
-- 👯 I’m looking to collaborate on **on any possibilities I'll find**
+- 👯 I’m looking to collaborate on **any possibilities I'll find**
 
 - 💬 Ask me about **whatever u want**
 
