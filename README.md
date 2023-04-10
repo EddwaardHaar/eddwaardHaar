@@ -16,9 +16,9 @@
 - 💬 Ask me about **whatever u want**
 
 - 📫 How to reach me **https://www.linkedin.com/in/peter-harcar**
-
-- 📄 Know about my experiences [resume-link](resume-link)
-
+<!--
+ - 📄 Know about my experiences [resume-link](resume-link)
+-->
 - ⚡ Fun fact **I love rock'n'roll music! \m/**
 
 <h3 align="left">Connect with me:</h3>
