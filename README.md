@@ -7,7 +7,7 @@
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eddwaardhaar" alt="eddwaardhaar" /></a> </p>
 -->
 
-- 🔭 I’m currently working on **my new portfolio website and some other small projects**
+- 🔭 I’m currently working on **on various small projects**
 
 - 🌱 I’m currently learning **web development and game development**
 
