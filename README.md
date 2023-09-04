@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Peter</h1>
+<h1 align="center">Hi, I'm Peter</h1>
 <h3 align="center">A passionate programmer from Slovakia, currently located in Finland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eddwaardhaar&label=Profile%20views&color=0e75b6&style=flat" alt="eddwaardhaar" /> </p>
