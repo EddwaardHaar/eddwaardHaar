@@ -7,11 +7,11 @@
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eddwaardhaar" alt="eddwaardhaar" /></a> </p>
 -->
 
-- 🔭 I’m currently working on **on various small projects**
+- 🔭 I’m currently working on **on various projects**
 
-- 🌱 I’m currently learning **web development and game development**
+- 🌱 I’m currently learning **DevOps and cybersecurity**
 
-- 👯 I’m looking to collaborate on **any possibilities I'll find**
+- 👯 I’m looking to collaborate on **any opportunities**
 
 - 💬 Ask me about **whatever u want**
 
